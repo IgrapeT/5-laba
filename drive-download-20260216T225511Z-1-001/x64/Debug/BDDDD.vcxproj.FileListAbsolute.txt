@@ -1,0 +1,6 @@
+D:\прога\BDDDD\BDDDD\x64\Debug\BDDDD.vcxproj.AssemblyReference.cache
+D:\прога\BDDDD\BDDDD\x64\Debug\BDDDD.vcxproj.Up2Date
+C:\Users\Ярослав\Desktop\45\б\BDDDD\BDDDD\x64\Debug\BDDDD.vcxproj.AssemblyReference.cache
+C:\Users\Ярослав\Desktop\45\б\BDDDD\BDDDD\x64\Debug\BDDDD.vcxproj.Up2Date
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\x64\Debug\BDDDD.vcxproj.AssemblyReference.cache
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\x64\Debug\BDDDD.vcxproj.Up2Date

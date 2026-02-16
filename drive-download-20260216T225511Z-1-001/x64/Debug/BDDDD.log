@@ -1,0 +1,55 @@
+﻿  AddClientForm.cpp
+  AddTariffForm.cpp
+  Call.cpp
+  Client.cpp
+  DatabaseManager.cpp
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1346, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1348, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x134b, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x134e, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1352, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1353, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1356, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x135a, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x135d, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1361, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1364, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1367, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1461, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1463, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1467, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x146b, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x146c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x146f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1473, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1476, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x1479, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x147c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2712, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2714, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2717, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x271a, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x271e, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x271f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2722, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2726, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2729, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x272d, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2731, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2734, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2738, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2834, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2836, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x283a, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x283e, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x283f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2842, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2846, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\kosty\Downloads\BDDDD\BDDDD\BDDDD\DatabaseManager.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x284a, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+  main.cpp
+  MainForm.cpp
+  Tariff.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  AddClientForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BDDDD.vcxproj -> C:\Users\kosty\Downloads\BDDDD\BDDDD\x64\Debug\BDDDD.exe
